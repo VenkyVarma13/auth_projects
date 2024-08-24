@@ -1,0 +1,27 @@
+body{
+background: url(https://www.google.com/imgres?q=kids%20books%20store%20cover%20page%20images&imgurl=https%3A%2F%2Fcdn.vectorstock
+.com%2Fi%2F500p%2F03%2F95%2Ftemplate-with-kids-and-opened-book-vector-46650395.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock
+.com%2Froyalty-free-vectors%2Fchildren-book-cover-page-vectors&docid=hjJEmsMBwjvCkM&tbnid=g1wQKFSqd4mxVM&vet=
+12ahUKEwjxmKDFsY2IAxUzR2cHHb2nKX4QM3oECFcQAA..i&w=650&h=500&hcb=2&ved=2ahUKEwjxmKDFsY2IAxUzR2cHHb2nKX4QM3oECFcQAA)
+background-repeat: no-repeat;
+background-size: cover;
+}
+.container .jumbotron{
+margin-top: 200px;
+background: orange;
+color: white;
+font-family: 'Merriweather', serif;
+}
+table, tr,td, thead, th{
+border: 2px solid white;
+cont-size: 30px;
+color: white;
+background:red;
+margin:auto;
+}
+h1{
+text-align: center;
+}
+form{
+boder:2px solid orange;
+}
